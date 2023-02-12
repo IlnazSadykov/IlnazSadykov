@@ -1,8 +1,8 @@
-![Header](https://github.com/IlnazSadykov/IlnazSadykov/blob/main/assets/FDCER8t3CBHENDptaSjFEoXo.gif)
+
 
 ## I'm beginner QA Engeneer
 
-### Tools
+### Language and Tools
 
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
@@ -22,3 +22,5 @@
 ### Contact 
 
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/IS_Fenix)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlnazSadykov&show_icons=true&theme=radical)
