@@ -24,7 +24,7 @@
 - [Checklists]()
 - [Test-Suites and Test-Cases]()
 - [Bug-Reports]()
-- [SQL Queries]()
+- [Python API Project](https://github.com/IlnazSadykov/APIProject)
 - [Postman Collections](https://github.com/IlnazSadykov/GoogleMapsAPI)
 
 ### Contact 
