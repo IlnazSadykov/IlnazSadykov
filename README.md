@@ -1,6 +1,14 @@
+<div align="center">
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I'm a Junior QA Engineer
+</h1>
+</div>
 
 
-## I'm beginner QA Engeneer
+## My CV 
+[Link to my CV](https://drive.google.com/file/d/1yQ7rz9AxkRPc5-hRWNO0jeyQGheBNqpF/view?usp=sharing)
 
 ### Language and Tools
 
@@ -22,5 +30,6 @@
 ### Contact 
 
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/IS_Fenix)
+[![Header](https://img.shields.io/badge/gmail-090909?style=for-the-badge&logo=gmail&logoColor=31a5db)](mailto:iisadykov13@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlnazSadykov&show_icons=true&theme=radical)
