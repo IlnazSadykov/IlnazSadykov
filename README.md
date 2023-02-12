@@ -23,7 +23,7 @@
 
 - [Checklists]()
 - [Test-Suites and Test-Cases]()
-- [Bug-Reports]()
+- [Selenium Project](https://github.com/IlnazSadykov/PythonSeleniumProject)
 - [Python API Project](https://github.com/IlnazSadykov/APIProject)
 - [Postman Collections](https://github.com/IlnazSadykov/GoogleMapsAPI)
 
