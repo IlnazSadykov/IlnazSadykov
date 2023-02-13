@@ -23,7 +23,7 @@
 
 ### Testing Documentation
 
-- [Test Documentation](https://docs.google.com/spreadsheets/d/1s0BWjIxeBKmxaaDUAOFnfzTbMcpQx_cD/edit?usp=sharing&ouid=105415950812874413128&rtpof=true&sd=true)
+- [Test-Suite and Test-Cases](https://docs.google.com/spreadsheets/d/1s0BWjIxeBKmxaaDUAOFnfzTbMcpQx_cD/edit?usp=sharing&ouid=105415950812874413128&rtpof=true&sd=true)
 - [Selenium Project](https://github.com/IlnazSadykov/PythonSeleniumProject)
 - [Python API Project](https://github.com/IlnazSadykov/APIProject)
 - [Postman Collections](https://github.com/IlnazSadykov/GoogleMapsAPI)
