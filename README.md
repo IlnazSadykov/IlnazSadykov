@@ -18,6 +18,8 @@
 ![Header](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=00618a)
+![Header](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=selenium&logoColor=74ff2a)
+![Header](https://img.shields.io/badge/PyTest-090909?style=for-the-badge&logo=pytest&logoColor=f1ff40)
 
 ### Testing Documentation (In progress)
 
